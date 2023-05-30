@@ -28,5 +28,5 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
-##### Study project using the following link
+##### Case study at the following link:
 https://www.youtube.com/watch?v=WpQECq5Hx9g&t=143s&ab_channel=DarshilParmar
